@@ -1,0 +1,17 @@
+An example of how to upload these in the correct format for csv is "Maternal Mortality - Example.csv"
+
+Typical flow is
+
+Leave Blank, Measurement 1, Measurement 2,
+Data Source, URL1, URL2,
+Country1, Country1Measurement1, Country1Measurement2
+Country2, Country2Measurement1, Country2Measurement2
+Country3, Country3Measurement1, Country3Measurement2
+
+Example
+
+,deaths/100000,beds/1000,
+Data Source,https://www.cia.gov/the-world-factbook/field/maternal-mortality-ratio/country-comparison/,https://data.worldbank.org/indicator/SH.MED.BEDS.ZS,
+Afghanistan,620,0.34
+Albania,8,2.91
+Algeria,78	
