@@ -1,0 +1,2 @@
+This is where the compiled csvs will appear. The compiled csvs will be made from CSV_Uploads using Python_Scripts. 
+Be careful not to overwrite other people's compiled csvs.
