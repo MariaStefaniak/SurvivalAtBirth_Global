@@ -1,0 +1,12 @@
+Ok, there's a huge issue with different countries having diffrent names, or data being in a different order. 
+Dictionary will be a place that will convert a country name to its three letter abbreviation in capital letters
+
+Example
+
+Dictionary["Hungary"] = "HUN"
+Dictionary["Magyarország"] = "HUN"
+Dictionary["Hungría"] = "HUN"
+Dictionary["HUN"] = "HUN"
+
+The Dictionary will be made using a CSV file that anyone can edit to add new names to the dictionary.
+This means that as long as CSV files follow a specific format, we do not need to worry about manually making sure things match
