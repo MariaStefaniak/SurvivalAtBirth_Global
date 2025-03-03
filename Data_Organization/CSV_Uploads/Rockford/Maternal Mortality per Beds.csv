@@ -1,0 +1,188 @@
+,deaths/100000,beds/1000
+Data Source,https://www.cia.gov/the-world-factbook/field/maternal-mortality-ratio/country-comparison/,https://data.worldbank.org/indicator/SH.MED.BEDS.ZS
+Afghanistan,620,0.34
+Albania,8,2.91
+Algeria,78,
+Angola,222,
+Antigua and Barbuda,21,3.29
+Argentina,45,3.2
+Armenia,27,4.59
+Australia,3,
+Austria,5,7.06
+Azerbaijan,41,
+"Bahamas, The",77,2.69
+Bahrain,16,
+Bangladesh,123,
+Barbados,39,5.66
+Belarus,1,
+Belgium,5,5.52
+Belize,130,
+Benin,523,0.47
+Bhutan,60,2.12
+Bolivia,161,1.36
+Bosnia and Herzegovina,6,
+Botswana,186,2.26
+Brazil,72,2.43
+Brunei,44,3.88
+Bulgaria,7,7.77
+Burkina Faso,264,0.2
+Burma,179,1.06
+Burundi,494,
+Cabo Verde,42,
+Cambodia,218,
+Cameroon,438,
+Canada,11,2.56
+Central African Republic,835,
+Chad,"1,063",
+Chile,15,2.03
+China,23,5
+Colombia,75,1.69
+Comoros,217,
+"Congo, Democratic Republic of the",547,
+"Congo, Republic of the",282,
+Costa Rica,22,1.15
+Cote d'Ivoire,480,
+Croatia,5,5.6
+Cuba,39,4.19
+Cyprus,68,
+Czechia,3,6.6
+Denmark,5,2.59
+Djibouti,234,
+Dominican Republic,107,1.42
+Ecuador,66,1.32
+Egypt,17,1.13
+El Salvador,43,1.08
+Equatorial Guinea,212,
+Eritrea,322,1
+Estonia,5,4.46
+Eswatini,437,
+Ethiopia,267,
+Fiji,38,
+Finland,8,2.83
+France,8,6
+Gabon,227,
+"Gambia, The",458,1.11
+Gaza Strip,20,
+Georgia,28,4.94
+Germany,4,7.8
+Ghana,263,
+Greece,8,
+Grenada,21,
+Guatemala,96,0.43
+Guinea,553,
+Guinea-Bissau,725,
+Guyana,112,2.25
+Haiti,350,5.03
+Honduras,72,0.71
+Hungary,15,6.76
+Iceland,3,2.83
+India,103,1.62
+Indonesia,173,1.4
+Iran,22,
+Iraq,76,1.2
+Ireland,5,2.91
+Israel,3,3.07
+Italy,5,3.18
+Jamaica,99,1.71
+Japan,4,12.72
+Jordan,41,1.37
+Kazakhstan,13,6.72
+Kenya,530,
+Kiribati,76,
+"Korea, North",107,
+"Korea, South",8,12.55
+Kuwait,7,2.35
+Kyrgyzstan,50,4.19
+Laos,126,1.27
+Latvia,18,5.3
+Lebanon,21,2.73
+Lesotho,566,
+Liberia,652,
+Libya,72,3.2
+Lithuania,9,5.96
+Luxembourg,6,4.19
+Madagascar,392,
+Malawi,381,
+Malaysia,21,1.97
+Maldives,57,5.04
+Mali,440,
+Malta,3,4.38
+Mauritania,465,3.64
+Mauritius,84,
+Mexico,59,1
+"Micronesia, Federated States of",74,
+Moldova,12,5.57
+Mongolia,39,8.22
+Montenegro,6,3.81
+Morocco,72,0.73
+Mozambique,127,0.7
+Namibia,215,
+Nepal,174,0.28
+Netherlands,4,2.91
+New Zealand,7,2.51
+Nicaragua,78,0.94
+Niger,441,0.27
+Nigeria,"1,047",
+North Macedonia,3,4.22
+Norway,2,3.4
+Oman,17,1.16
+Pakistan,154,
+Panama,50,1.92
+Papua New Guinea,192,
+Paraguay,71,1.01
+Peru,69,1.64
+Philippines,78,0.99
+Poland,2,6.11
+Portugal,12,3.53
+Puerto Rico,34,
+Qatar,8,
+Romania,10,7.06
+Russia,14,7.08
+Rwanda,259,0.74
+Saint Lucia,73,
+Saint Vincent and the Grenadines,62,
+Samoa,59,
+Sao Tome and Principe,146,
+Saudi Arabia,16,2.18
+Senegal,261,5.35
+Serbia,10,5.35
+Seychelles,3,3.19
+Sierra Leone,443,
+Singapore,7,2.63
+Slovakia,5,5.68
+Slovenia,5,4.25
+Solomon Islands,122,
+Somalia,621,
+South Africa,127,
+South Sudan,"1,223",
+Spain,3,2.95
+Sri Lanka,29,4.02
+Sudan,270,0.66
+Suriname,96,2.89
+Sweden,5,2.05
+Switzerland,7,4.48
+Syria,30,1.39
+Tajikistan,17,4.36
+Tanzania,238,0.63
+Thailand,29,2.33
+Timor-Leste,204,
+Togo,399,
+Tonga,126,
+Trinidad and Tobago,27,1.92
+Tunisia,37,2.38
+Turkey (Turkiye),17,2.99
+Turkmenistan,5,4.09
+Uganda,284,
+Ukraine,17,6.26
+United Arab Emirates,9,1.94
+United Kingdom,10,2.43
+United States,21,2.74
+Uruguay,19,2.49
+Uzbekistan,30,4.78
+Vanuatu,94,
+Venezuela,259,0.99
+Vietnam,124,
+West Bank,20,
+Yemen,183,
+Zambia,135,
+Zimbabwe,357,
