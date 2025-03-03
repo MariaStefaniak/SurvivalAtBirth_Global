@@ -1,0 +1,8 @@
+Ground_Truths is the file that contains information for combining regions: population, density, etc.
+Mete, Rockford, Taylor, Emirhan, and Maria are the folders that we will upload our own csv files to. 
+Gently requesting you do not upload files to other people's folders and do not modify Ground_Truth without alerting Rockford
+
+Format for CSV Files
+First row first column is where the data comes from, typically a url
+First column after the first cell is the list of countries by name
+Following columns have a subject for each column, and then the numbers for the corresponding value that is being measured, e.g. gdp
