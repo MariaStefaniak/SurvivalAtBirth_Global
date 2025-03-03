@@ -2,4 +2,4 @@ Data_Organization -> Python_Scripts, CSV_Uplaods, Compiled_CSVs
 
 CSV_Uploads -> Ground_Truths, Maria, Mete, Emirhan, Rockford, Taylor
 
-Python_Scripts -> Dictionary, Compiler
+Python_Scripts -> Dictionary, Compilers
