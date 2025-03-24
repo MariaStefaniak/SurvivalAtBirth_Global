@@ -1,5 +1,4 @@
-,deaths/100000,beds/1000
-Data Source,https://www.cia.gov/the-world-factbook/field/maternal-mortality-ratio/country-comparison/,https://data.worldbank.org/indicator/SH.MED.BEDS.ZS
+Country,deaths_per_100000,beds_per_1000
 Afghanistan,620,0.34
 Albania,8,2.91
 Algeria,78,
