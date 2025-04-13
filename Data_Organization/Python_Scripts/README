@@ -1,0 +1,185 @@
+
+
+
+* my_main_country_db.csv:
+
+Compilation of data used in   
+
+
+COLUMS:
+
+1. Country: using the three-letter ISO3 convention.
+
+2. Births_per_woman_2019:
+
+3. Population_Density_2010:
+
+4. GDP_per_capita_2022:
+
+5. beds_per_1000:
+
+6. Maternal_mortality_ratio_2019:
+
+7. Population_2019:
+
+8. Adolescent_Birth_Rate_2019:
+
+9. GGHD_as_CHE_2019:
+
+10. VDem_2015:
+
+11. WBregion_2015:
+
+12. sample_polity_2015:
+
+13. Capacity_2015:
+
+14. Capacity_sd_2015:
+
+15. censusfreq_2015:
+
+16. v2cirspct_2015: 
+
+17. v2stfisccap_2015:
+
+18. v2terr_2015:
+
+19. infcap_2015:
+
+20. irai_qbfm_2015:
+
+21. irai_qpa_2015:
+
+22. irai_erm_2015:
+
+23. milexpercap_2015:
+
+24. milpercap_2015:
+
+25. policecap_2015:
+
+26. StateHist50s_2015:
+
+27. bti_mo_2015:
+
+28. wbstat_2015:
+
+29. tax_inc_tax_2015:
+
+30. tax_trade_tax_2015:
+
+31. taxrev_gdp_2015:
+
+32. taxrev_gdp_2015:
+
+33. GDP_2019: GDP in 2019.
+Taken from Data_Organization/CSV_Uploads/Mete/GDP/API_NY.GDP.MKTP.CD_DS2_en_csv_v2_76261.csv
+Source: https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2023
+
+34. GDP_per_Capita_2019: GDP per capita in 2019.
+Taken from Data_Organization/CSV_Uploads/Mete/GDP_per_capita/API_NY.GDP.PCAP.CD_DS2_en_csv_v2_76317.csv
+Source: https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
+
+35. Gini_2019: Gini index in 2019.
+Taken from Data_Organization/CSV_Uploads/Mete/GINI/API_SI.POV.GINI_DS2_en_csv_v2_114293.csv
+Source: https://data.worldbank.org/indicator/SI.POV.GINI
+
+36. Share_of_Pop_in_Extreme Poverty_2019
+
+37. Urban_population_percent_2019
+
+38. Mortality_Ratio_difference_2019_1985
+
+39. v2x_libdem
+
+40. v2elfemrst
+
+41. v2elgvsuflvl
+
+42. v2fsuffrage
+
+43. v2pepwrses
+
+44. v2pepwrgen
+
+45. v2clgencl
+
+46. v2peapsgen
+
+47. v2peapsgeo
+
+48. v2cacamps
+
+49. v2x_neopat
+
+50. v2xnp_client
+
+51. v2xnp_regcorr
+
+52. v2x_civlib
+
+53. v2x_clphy
+
+54. v2x_clpol
+
+55. v2x_clpriv
+
+56. v2xpe_exlecon
+
+57. v2xpe_exlgender
+
+58. v2xpe_exlgeo
+
+59. v2xpe_exlpol
+
+60. v2xpe_exlsocgr
+
+61. v2x_corr
+
+62. v2x_gender
+
+63. v2x_gencl
+
+64. v2x_gencs
+
+65. v2x_genpp
+
+66. v2x_rule
+
+67. v2smpolsoc
+
+68. e_v2x_civlib_5C
+
+69. e_v2x_clpol_5C
+
+70. e_v2x_clpriv_5C
+
+71. e_v2x_corr_5C
+
+72. e_v2x_gencl_5C
+
+73. e_v2x_gencs_5C
+
+74. e_v2x_gender_5C
+
+75. e_v2x_genpp_5C
+
+76. e_v2x_libdem_5C
+
+77. e_v2x_liberal_5C
+
+78. e_wbgi_gee
+
+79. e_wbgi_pve
+
+80. e_peedgini
+
+81. e_miferrat
+
+82. e_pechmor
+
+83. e_pematmor
+
+84. e_wb_pop
+
+
