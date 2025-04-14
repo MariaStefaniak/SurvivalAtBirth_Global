@@ -8,23 +8,23 @@ Compilation of data used in
 
 COLUMS:
 
-1. Country: using the three-letter ISO3 convention.
+1. Country: Country name, using the three-letter ISO convention.
 
 2. Births_per_woman_2019:
 
-3. Population_Density_2010:
+3. Population_Density_2010: 
 
-4. GDP_per_capita_2022:
+4. GDP_per_capita_2022: GDP in $ per capita in 2022.
 
 5. beds_per_1000:
 
-6. Maternal_mortality_ratio_2019:
+6. Maternal_mortality_ratio_2019: Maternal mortality ration in 2019, i.e. number of maternal deaths (during pregnancy or within a year after delivery) per 100.000 livebirths.
 
-7. Population_2019:
+7. Population_2019: Population in 2019.
 
 8. Adolescent_Birth_Rate_2019:
 
-9. GGHD_as_CHE_2019:
+9. GGHD_as_CHE_2019: Domestic General Government Health Expenditure as % of the Current Health Expenditure in 2019.
 
 10. VDem_2015:
 
@@ -88,7 +88,7 @@ Source: https://data.worldbank.org/indicator/SI.POV.GINI
 
 37. Urban_population_percent_2019
 
-38. Mortality_Ratio_difference_2019_1985
+38. Mortality_Ratio_difference_2019_1985: Difference between Maternal Mortality Ratio in 2019 and Maternal Mortality Ratio in 1985.
 
 39. v2x_libdem
 
@@ -136,7 +136,10 @@ Source: https://data.worldbank.org/indicator/SI.POV.GINI
 
 61. v2x_corr
 
-62. v2x_gender
+62. v2x_gender: Women political empowerment index in 2020. 
+Clarification: Women’s political empowerment is defined as a process of increasing capacity for women, leading to greater choice, agency, and participation in societal decision-making. It is understood to incorporate three equally-weighted dimensions: fundamental civil liberties, women’s open discussion of political issues and participation in civil society organizations, and the descriptive representation of women in formal political positions.
+Taken from Data_Organization/CSV_Uploads/Emirhan/vdem2020_cleaned.csv
+Source: https://www.v-dem.net/
 
 63. v2x_gencl
 
